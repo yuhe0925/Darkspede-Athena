@@ -217,3 +217,13 @@ D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\obj\ARM\Debug\qualifi
 D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
 D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\obj\ARM\Debug\ProjectArchitectures.txt
 D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\obj\ARM\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758156200000000.json
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Bootup_Claim.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Button_Off.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Button_On.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Button_Press.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Main_Door_Bell.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Scifi_Confirm.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Scifi_Enter.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Scifi_Exit.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Warning.wav
+D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Assets\Sound\Winning.wav

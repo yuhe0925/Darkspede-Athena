@@ -34,6 +34,10 @@ namespace AthenaTcpServer
 
             SocketManager.DataListener_OpenListenPorts();
 
+
+            AssetController asset = new AssetController();
+
+
             // Server
             if (TcpMainController.IsServer)
             {
@@ -44,6 +48,16 @@ namespace AthenaTcpServer
             {
                 SocketManager.SentResponse(ServerAdress, "Athena");
             }
+        }
+
+        private void TextBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void TextBlock_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

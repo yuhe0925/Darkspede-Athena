@@ -30,13 +30,13 @@
     <AppXManifest Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-01-11T04:49:03.852</Modified>
+      <Modified>2019-01-17T06:02:47.284</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\AthenaTcpServer.exe">
       <PackagePath>entrypoint\AthenaTcpServer.exe</PackagePath>
-      <Modified>2019-01-11T04:49:03.079</Modified>
+      <Modified>2019-01-17T06:02:46.708</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -494,6 +494,46 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2018-10-22T14:33:40.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Bootup_Claim.wav">
+      <PackagePath>Assets\Sound\Bootup_Claim.wav</PackagePath>
+      <Modified>2015-08-15T02:44:39.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Button_Off.wav">
+      <PackagePath>Assets\Sound\Button_Off.wav</PackagePath>
+      <Modified>2015-08-15T02:50:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Button_On.wav">
+      <PackagePath>Assets\Sound\Button_On.wav</PackagePath>
+      <Modified>2015-08-15T02:50:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Button_Press.wav">
+      <PackagePath>Assets\Sound\Button_Press.wav</PackagePath>
+      <Modified>2015-08-15T02:37:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Main_Door_Bell.wav">
+      <PackagePath>Assets\Sound\Main_Door_Bell.wav</PackagePath>
+      <Modified>2015-08-15T02:29:21.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Scifi_Confirm.wav">
+      <PackagePath>Assets\Sound\Scifi_Confirm.wav</PackagePath>
+      <Modified>2015-08-15T02:31:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Scifi_Enter.wav">
+      <PackagePath>Assets\Sound\Scifi_Enter.wav</PackagePath>
+      <Modified>2015-08-15T02:43:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Scifi_Exit.wav">
+      <PackagePath>Assets\Sound\Scifi_Exit.wav</PackagePath>
+      <Modified>2015-08-15T02:43:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Warning.wav">
+      <PackagePath>Assets\Sound\Warning.wav</PackagePath>
+      <Modified>2019-01-17T04:53:59.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Winning.wav">
+      <PackagePath>Assets\Sound\Winning.wav</PackagePath>
+      <Modified>2019-01-17T04:53:59.008</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2019-01-11T03:43:45.803</Modified>
@@ -534,15 +574,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\AthenaTcpServer.xr.xml">
       <PackagePath>AthenaTcpServer.xr.xml</PackagePath>
-      <Modified>2019-01-11T04:09:41.025</Modified>
+      <Modified>2019-01-17T04:24:00.575</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-01-11T04:49:02.969</Modified>
+      <Modified>2019-01-17T06:02:46.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-01-11T04:49:02.969</Modified>
+      <Modified>2019-01-17T06:02:46.611</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -550,11 +590,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2019-01-11T04:09:41.824</Modified>
+      <Modified>2019-01-17T06:02:47.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\bin\ARM\Debug\Core\AthenaTcpServer.exe">
       <PackagePath>AthenaTcpServer.exe</PackagePath>
-      <Modified>2019-01-11T04:49:03.842</Modified>
+      <Modified>2019-01-17T06:02:47.277</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

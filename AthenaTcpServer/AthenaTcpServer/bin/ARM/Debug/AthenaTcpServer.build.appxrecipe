@@ -370,6 +370,36 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Bootup_Claim.wav">
+      <PackagePath>Assets\Sound\Bootup_Claim.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Button_Off.wav">
+      <PackagePath>Assets\Sound\Button_Off.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Button_On.wav">
+      <PackagePath>Assets\Sound\Button_On.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Button_Press.wav">
+      <PackagePath>Assets\Sound\Button_Press.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Main_Door_Bell.wav">
+      <PackagePath>Assets\Sound\Main_Door_Bell.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Scifi_Confirm.wav">
+      <PackagePath>Assets\Sound\Scifi_Confirm.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Scifi_Enter.wav">
+      <PackagePath>Assets\Sound\Scifi_Enter.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Scifi_Exit.wav">
+      <PackagePath>Assets\Sound\Scifi_Exit.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Warning.wav">
+      <PackagePath>Assets\Sound\Warning.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Assets\Sound\Winning.wav">
+      <PackagePath>Assets\Sound\Winning.wav</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Github\Darkspede-Athena\AthenaTcpServer\AthenaTcpServer\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>

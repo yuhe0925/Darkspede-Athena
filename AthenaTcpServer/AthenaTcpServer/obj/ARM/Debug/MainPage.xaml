@@ -6,11 +6,13 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     mc:Ignorable="d"
-    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Foreground="Black">
 
     <Grid FocusVisualPrimaryBrush="Black" FocusVisualSecondaryBrush="#99FFFFFF">
-        <TextBlock HorizontalAlignment="Left" Margin="10,10,10,0" Text="Athern TCP Server Dashboard" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" Width="1899" FontSize="24" FontFamily="Arial Black" FontWeight="Bold" FocusVisualPrimaryBrush="White" Foreground="#FF15F5EB"/>
-        <TextBlock x:ConnectionId='2' x:Name="textMessage" HorizontalAlignment="Left" Margin="10,100,10,10" Text="TextBlock" TextWrapping="Wrap" VerticalAlignment="Top" Height="50" Width="1901" FocusVisualPrimaryBrush="White" Foreground="White"/>
+        <TextBlock HorizontalAlignment="Left" Margin="0,1061,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FocusVisualPrimaryBrush="White" Foreground="Red"><Run Text="DEMO"/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:ConnectionId='2' HorizontalAlignment="Right" Margin="0,1061,-1,0" TextWrapping="Wrap" VerticalAlignment="Top"                                               Height="19" RenderTransformOrigin="0.044,0.487" FocusVisualPrimaryBrush="White" Foreground="Red"><Run Text="DEMO"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Text="DEMO" TextWrapping="Wrap" VerticalAlignment="Top" FocusVisualPrimaryBrush="White" Foreground="Red"/>
+        <TextBlock HorizontalAlignment="Right" Margin="0,0,-1,0" Text="DOME" TextWrapping="Wrap" VerticalAlignment="Top" FocusVisualPrimaryBrush="White" Foreground="Red"/>
 
     </Grid>
 </Page>
